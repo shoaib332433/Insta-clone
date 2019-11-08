@@ -16,6 +16,10 @@
         "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\drawable-ldpi\\instaicon.jpg"
     },
     {
+        "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signin_.xml.flat",
+        "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\layout\\activity_signin_.xml"
+    },
+    {
         "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
@@ -110,6 +114,10 @@
     {
         "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_instaicon.jpg.flat",
         "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\drawable-hdpi\\instaicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_colorlogin.xml.flat",
+        "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\drawable-v24\\colorlogin.xml"
     },
     {
         "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_color.xml.flat",

@@ -661,6 +661,7 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable color
+drawable colorlogin
 drawable confusing_shape
 drawable default_shape
 drawable error_shape
@@ -837,6 +838,7 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id signin
 id signup
 id spacer
 id split_action_bar
@@ -920,6 +922,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_signin_
 layout activity_singup_
 layout custom_dialog
 layout fancytoast_layout

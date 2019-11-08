@@ -18,7 +18,7 @@
 12-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:6:22-76
 13
 14    <application
-14-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:8:5-37:19
+14-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:8:5-38:19
 15        android:name="com.example.instagramclone.App"
 15-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:15:9-28
 16        android:allowBackup="true"
@@ -38,41 +38,44 @@
 24        android:theme="@style/AppTheme" >
 24-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:14:9-40
 25        <activity android:name="com.example.instagramclone.Singup_Activity" />
-25-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:16:9-62
+25-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:16:9-52
 25-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:16:19-50
-26        <activity android:name="com.example.instagramclone.MainActivity" >
-26-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:17:9-23:20
-26-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:17:19-47
-27            <intent-filter>
-27-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:18:13-22:29
-28                <action android:name="android.intent.action.MAIN" />
-28-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:19:17-69
-28-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:19:25-66
-29
-30                <category android:name="android.intent.category.LAUNCHER" />
-30-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:21:17-77
-30-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:21:27-74
-31            </intent-filter>
-32        </activity>
-33
-34        <meta-data
-34-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:26:9-28:59
-35            android:name="com.parse.SERVER_URL"
-35-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:27:13-48
-36            android:value="@string/back4app_server_url" />
-36-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:28:13-56
-37        <meta-data
-37-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:29:9-31:55
-38            android:name="com.parse.APPLICATION_ID"
-38-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:30:13-52
-39            android:value="@string/back4app_app_id" />
+26        <activity android:name="com.example.instagramclone.Singin_Activity" />
+26-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:17:9-52
+26-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:17:19-50
+27        <activity android:name="com.example.instagramclone.MainActivity" >
+27-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:18:9-24:20
+27-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:18:19-47
+28            <intent-filter>
+28-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:19:13-23:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:20:17-69
+29-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:20:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:22:17-77
+31-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:22:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <meta-data
+35-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:27:9-29:59
+36            android:name="com.parse.SERVER_URL"
+36-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:28:13-48
+37            android:value="@string/back4app_server_url" />
+37-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:29:13-56
+38        <meta-data
+38-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:30:9-32:55
+39            android:name="com.parse.APPLICATION_ID"
 39-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:31:13-52
-40        <meta-data
-40-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:32:9-34:59
-41            android:name="com.parse.CLIENT_KEY"
-41-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:33:13-48
-42            android:value="@string/back4app_client_key" />
-42-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:34:13-56
-43    </application>
-44
-45</manifest>
+40            android:value="@string/back4app_app_id" />
+40-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:32:13-52
+41        <meta-data
+41-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:33:9-35:59
+42            android:name="com.parse.CLIENT_KEY"
+42-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:34:13-48
+43            android:value="@string/back4app_client_key" />
+43-->C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:35:13-56
+44    </application>
+45
+46</manifest>
