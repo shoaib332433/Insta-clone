@@ -12,12 +12,12 @@
         "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\layout\\activity_singup_.xml"
     },
     {
-        "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_instaicon.jpg.flat",
-        "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\drawable-ldpi\\instaicon.jpg"
-    },
-    {
         "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signin_.xml.flat",
         "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\layout\\activity_signin_.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_instaicon.jpg.flat",
+        "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\drawable-ldpi\\instaicon.jpg"
     },
     {
         "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
@@ -82,6 +82,10 @@
     {
         "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_instaicon.jpg.flat",
         "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\drawable-mdpi\\instaicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_socialmedia.xml.flat",
+        "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\layout\\activity_socialmedia.xml"
     },
     {
         "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",

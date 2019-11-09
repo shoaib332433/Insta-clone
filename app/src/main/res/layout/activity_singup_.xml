@@ -4,7 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Singup_Activity">
+    tools:context=".Singup_Activity"
+    android:onClick="inputmanager"
+    >
 
     <ImageView
         android:id="@+id/icon"

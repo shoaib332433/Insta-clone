@@ -797,6 +797,7 @@ id line1
 id line3
 id listMode
 id list_item
+id logout
 id message
 id middle
 id multiply
@@ -924,6 +925,7 @@ layout abc_tooltip
 layout activity_main
 layout activity_signin_
 layout activity_singup_
+layout activity_socialmedia
 layout custom_dialog
 layout fancytoast_layout
 layout notification_action
