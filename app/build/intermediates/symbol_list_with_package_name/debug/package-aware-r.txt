@@ -1061,6 +1061,7 @@ drawable ic_mtrl_chip_close_circle
 drawable ic_pan_tool_black_24dp
 drawable ic_refresh_black_24dp
 drawable icon
+drawable icondummy
 drawable info_shape
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
@@ -1089,6 +1090,7 @@ id FUNCTION
 id META
 id SHIFT
 id SYM
+id aboutyou
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
 id accessibility_custom_action_1
@@ -1143,6 +1145,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id address
 id alertTitle
 id all
 id always
@@ -1164,6 +1167,7 @@ id chronometer
 id clip_horizontal
 id clip_vertical
 id collapseActionView
+id contactnumber
 id container
 id content
 id contentPanel
@@ -1227,8 +1231,10 @@ id mini
 id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply
+id name
 id navigation_header_container
 id never
+id nickname
 id none
 id normal
 id notification_background
@@ -1335,6 +1341,8 @@ id unchecked
 id uniform
 id unlabeled
 id up
+id update
+id updateprofile
 id useLogo
 id username
 id view_offset_helper
@@ -1401,6 +1409,7 @@ layout activity_main
 layout activity_signin_
 layout activity_singup_
 layout activity_socialmedia
+layout activity_updateprofile
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

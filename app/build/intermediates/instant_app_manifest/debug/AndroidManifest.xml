@@ -23,6 +23,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.instagramclone.Updateprofile" />
         <activity android:name="com.example.instagramclone.SocialmediaActivity" />
         <activity android:name="com.example.instagramclone.Singup_Activity" />
         <activity android:name="com.example.instagramclone.Singin_Activity" />
