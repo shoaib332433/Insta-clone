@@ -104,8 +104,5 @@ public class Singup_Activity extends AppCompatActivity implements View.OnClickLi
         }catch (Exception e){
             e.printStackTrace();
         }
-
-
-
     }
 }

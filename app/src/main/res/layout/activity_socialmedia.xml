@@ -6,11 +6,66 @@
     android:layout_height="match_parent"
     tools:context=".SocialmediaActivity">
 
-    <Button
-        android:id="@+id/logout"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Log out"
-        />
+        android:orientation="vertical">
+
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:id="@+id/tablayoutbar"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/socialbackcolor"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="47dp"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="130dp"
+                    android:src="@drawable/whitelogo"
+                    android:layout_marginTop="8dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Instagram"
+                android:textColor="#fff"
+                android:textSize="25dp"
+                android:layout_marginTop="7dp"
+                android:fontFamily="sans-serif-condensed"
+                />
+
+            </LinearLayout>
+
+        </com.google.android.material.appbar.AppBarLayout>
+
+
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tablayout"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:tabGravity="fill"
+            app:tabMode="fixed"
+            android:background="#fff"
+            app:tabTextColor="#000"
+            app:tabSelectedTextColor="#F11630"/>
+
+
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+
+
 
 </RelativeLayout>

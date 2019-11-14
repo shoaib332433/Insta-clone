@@ -12,7 +12,7 @@
         android:id="@+id/icon"
         android:layout_width="70dp"
         android:layout_height="70dp"
-        android:src="@drawable/instaicon"
+        android:src="@drawable/icon"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="60dp"
         />
