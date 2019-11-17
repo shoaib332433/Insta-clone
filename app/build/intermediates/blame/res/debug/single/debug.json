@@ -28,16 +28,20 @@
         "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
         "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_whitelogo.png.flat",
         "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\drawable-hdpi\\whitelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_updateprofile.xml.flat",
+        "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\layout\\activity_updateprofile.xml"
     },
     {
         "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -46,10 +50,6 @@
     {
         "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_updateprofile.xml.flat",
-        "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\layout\\activity_updateprofile.xml"
     },
     {
         "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
@@ -164,12 +164,12 @@
         "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_socialbackcolor.xml.flat",
-        "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\drawable-v24\\socialbackcolor.xml"
-    },
-    {
         "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_whitelogo.png.flat",
         "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\drawable-xhdpi\\whitelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_socialbackcolor.xml.flat",
+        "source": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\src\\main\\res\\drawable-v24\\socialbackcolor.xml"
     },
     {
         "merged": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_socialmedia.xml.flat",

@@ -1,12 +1,13 @@
 package com.example.instagramclone;
 
-import androidx.appcompat.app.AppCompatActivity;
-
+import android.app.ProgressDialog;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.parse.ParseException;
 import com.parse.ParseUser;
@@ -17,6 +18,7 @@ public class Updateprofile extends AppCompatActivity implements View.OnClickList
 
     Button updateprofile;
     EditText name,nickname,aboutyourself,contactnum,address;
+    ParseUser parseUser;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,13 +34,18 @@ public class Updateprofile extends AppCompatActivity implements View.OnClickList
         address=findViewById(R.id.address);
 
 
-
-
-
         updateprofile.setOnClickListener(this);
 
-    }
+        parseUser=ParseUser.getCurrentUser();
 
+        name.setText(parseUser.get("Name") + "");
+        nickname.setText(parseUser.get("NickName")+"");
+        aboutyourself.setText(parseUser.get("Aboutyourself")+"");
+        contactnum.setText(parseUser.get("Contactnumber")+"");
+        address.setText(parseUser.get("Address")+"");
+
+
+    }
 
     //Onclick
     @Override
@@ -47,16 +54,19 @@ public class Updateprofile extends AppCompatActivity implements View.OnClickList
             case R.id.updateprofile:
 
 
-                ParseUser parseUser=ParseUser.getCurrentUser();
-
                 parseUser.put("Name",name.getText().toString());
-                parseUser.put("Nick Name",nickname.getText().toString());
-                parseUser.put("About your self",aboutyourself.getText().toString());
-                parseUser.put("Contact number",contactnum.getText().toString());
+                parseUser.put("NickName",nickname.getText().toString());
+                parseUser.put("Aboutyourself",aboutyourself.getText().toString());
+                parseUser.put("Contactnumber",contactnum.getText().toString());
                 parseUser.put("Address",address.getText().toString());
 
 
-                parseUser.saveInBackground(new SaveCallback() {
+                final ProgressDialog progressDialog=new ProgressDialog(this);
+                progressDialog.setMessage("Updating");
+                progressDialog.show();
+
+                parseUser.saveInBackground(new SaveCallback()
+                 {
                     @Override
                     public void done(ParseException e) {
                         if (e==null){
@@ -64,9 +74,9 @@ public class Updateprofile extends AppCompatActivity implements View.OnClickList
                         }else{
                             FancyToast.makeText(Updateprofile.this,e.getMessage(), Toast.LENGTH_SHORT,FancyToast.ERROR,false).show();
                         }
+                        progressDialog.dismiss();
                     }
                 });
-
                 break;
         }
     }

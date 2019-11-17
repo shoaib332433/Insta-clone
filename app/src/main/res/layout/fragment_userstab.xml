@@ -5,10 +5,9 @@
     android:layout_height="match_parent"
     tools:context=".Userstab">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="User tab"
-        android:layout_centerInParent="true"/>
+    <ListView
+        android:id="@+id/usersdata"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
 </RelativeLayout>
