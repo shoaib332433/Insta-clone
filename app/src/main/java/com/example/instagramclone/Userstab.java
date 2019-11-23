@@ -1,5 +1,6 @@
 package com.example.instagramclone;
 
+import android.app.ProgressDialog;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -47,6 +48,11 @@ public class Userstab extends Fragment {
 
         parseQuery.whereNotEqualTo("username",ParseUser.getCurrentUser().getUsername());
 
+        final ProgressDialog progressDialog=new ProgressDialog(getContext());
+
+        progressDialog.setMessage("Wait");
+        progressDialog.show();
+
         parseQuery.findInBackground(new FindCallback<ParseUser>() {
             @Override
             public void done(List<ParseUser> users, ParseException e) {
@@ -57,15 +63,13 @@ public class Userstab extends Fragment {
                         for (ParseUser parseUser:users){
                             arrayList.add(parseUser.getUsername());
                         }
+                        progressDialog.dismiss();
                         listView.setAdapter(arrayAdapter);
                     }
 
                 }
             }
         });
-
-
-
 
         return v;
     }

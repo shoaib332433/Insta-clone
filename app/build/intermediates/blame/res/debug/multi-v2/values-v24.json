@@ -4,7 +4,17 @@
             "outputFile": "C:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagramclone\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\SHOAIB\\.gradle\\caches\\transforms-2\\files-2.1\\4001dc44a459ad3bddd815a387f94a79\\media-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\SHOAIB\\.gradle\\caches\\transforms-2\\files-2.1\\637e87538cdf6aea5141591760a2054a\\appcompat-1.1.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHOAIB\\.gradle\\caches\\transforms-2\\files-2.1\\9a6c5ee4ecfb36bd09e31dfb03abfa67\\media-1.0.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -18,16 +28,6 @@
                         "startOffsets": "347,413,474,540",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "408,469,535,602"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\SHOAIB\\.gradle\\caches\\transforms-2\\files-2.1\\698dd1386f5242336a3d9f997ee12bee\\appcompat-1.1.0\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
                     }
                 }
             ]

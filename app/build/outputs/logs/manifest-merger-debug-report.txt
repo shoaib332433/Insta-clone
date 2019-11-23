@@ -4,44 +4,44 @@ ADDED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\And
 INJECTED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:2:1-39:12
 INJECTED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:2:1-39:12
 INJECTED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:2:1-39:12
-MERGED from [com.github.Shashank02051997:FancyToast-Android:0.1.6] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\79a2a965bcf52b3912f9894388473ff3\jetified-FancyToast-Android-0.1.6\AndroidManifest.xml:2:1-16:12
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\2030a678c00725541910e41d8dcb8118\material-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\698dd1386f5242336a3d9f997ee12bee\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\f160f24f6ebb938cc6fc729e1f9801c5\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\f9b5848ed119f8e4df49874a5e8b5fac\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9f297cac95bedf27fa46a167097ea009\jetified-parse-1.21.0\AndroidManifest.xml:10:1-24:12
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\7096b87c8fb1293bc3c407c4d2c4c191\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\5f30642a019cd89df11174820bc2b955\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\fc1424bfadac3b012135331751985bb4\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9c236f0fd253bfe27a246bc01f061a6b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\b499ba0e220e2125a292e41f0220f301\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\4001dc44a459ad3bddd815a387f94a79\media-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\fdb12b5a1bd286958cecab75c922db3b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\57cdcb7c28eaf2edd8ad174163cd7428\transition-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6e045e035b92b585686e63068c2ea31d\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\70dbb70033e228da59571e1320800dc9\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\82a202330e424db08ea51c1958f88863\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bdfddf1e6a8782e9fd66cfc706439f21\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\28c1d4875608959e36c5e67670828032\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\2f922098f3e41014d0cffda70ba84606\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\dc9a923d05c761b8478bfb61d79201cd\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\65eb3df3f33b2523266727750641e3a0\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\ab7c2afb56e42dd0bc15f98ac94b24ba\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6519fc74590f23c4c1acdcc5e6820677\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1828c85ed9aa36f74b3e881693990ce5\core-1.1.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\7dddf4b28fc6134ab1330b3efbb0881c\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\b95ab00ebe630ee54f34ed99e435a5f1\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\fd7913541d978b06e26eb3675abbf607\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\5d0130c220f1ac49ebe89a9f86ca13df\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\e9725f7a0aa17adaf0bbe929a0f874ef\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\e56a44befec2cc6024d13702ef22a481\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\7d5551c04455bc92a0b9b6d5d0c3f320\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\c40d39aaa1b7141d28f574abf75254a7\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\8eb818a6f72b515d9af2c0407e82537a\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1c3bfc4ce792b64e5f0911f9e59e5847\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\5180934eb08793071d6b8c4da56bf453\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\b66dee9610269a2c7602d688aae0760b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\e5cdabd8d11255e53eef1a93f4cc1c54\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.Shashank02051997:FancyToast-Android:0.1.6] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bda30a0668c9a8a21a9fc385b72e759a\jetified-FancyToast-Android-0.1.6\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\4b0efdb652dc852784e5cd041b170fff\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\637e87538cdf6aea5141591760a2054a\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1a39af07be07f37158592ca59158a49a\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\7e83efc0ec889c810551b0247d881db5\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bade2320caa7db1ce544342e813ccc91\jetified-parse-1.21.0\AndroidManifest.xml:10:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1188dea4964e3679c4558ac5cf5ba796\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\ac20911dd2423b1dc5ee7bc0e6c2bd57\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\efe2535d853b1bf6880f27609f69efb2\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\2be89e6b9e8f5d311c1edca857de9328\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\de0babc5bb30b697c366eb4d7935df44\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9a6c5ee4ecfb36bd09e31dfb03abfa67\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1ce78b80763cbcca7d5d468a837bb114\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6b024cc412d3043c8a7078477c2dade7\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\ae431e076eaffdd1374e5c8b1e2084eb\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\b1707985d2816a1d3ed00bcaf1e66f87\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\0d01548bf87c860359127667f100868b\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\a44791c56c8f726ea9a7e74e147f33a0\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\57197a6c1dcbd2fe057ef393e9a37d99\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\8310045d7ba699c94a9605d811bbe8da\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\f49e8688b0c5f54413b9f179e9dcdeb2\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\475f6435ad08b4af8950ff6ea6ed208e\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\34040e5cd9b24ce81add4fae2dda0a0c\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\3fd00c56e758ee1d5063f2e17bf4dced\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\77be7d3270c29f3380dfe0027fd17a86\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\377147e80a2ffcbb694e3dc0f97a0219\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6c7eca1098b7ab47ebecc34c4674969c\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6c6d77765c3da4c6a37fd76c3b076c7c\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\82ba042efb93b971bbc0f4d6d91910dd\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\3bbe64659009810363dd4ee91128201a\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\3e79c2cabfbfad4d9e5f695415b3c89a\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\77e981ea285894fa697d7ca15bbb9160\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\e06de74feb44b41d954eda5375437c46\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\25e6af53716dcadfa2e5605134542e9d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\fcad7ef066e7c479f19873dd46dfd567\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\a84e9cb8f9bfc2e1f1eb77c470c02095\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\e40a977e3502dbae819668b38cdd861b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9fe915dcc5e6a697a468c62b90466d98\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:2:1-39:12
 INJECTED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:2:1-39:12
 INJECTED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:2:1-39:12
@@ -61,32 +61,32 @@ INJECTED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\
 		ADDED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:5:5-67
-MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9f297cac95bedf27fa46a167097ea009\jetified-parse-1.21.0\AndroidManifest.xml:19:5-67
-MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9f297cac95bedf27fa46a167097ea009\jetified-parse-1.21.0\AndroidManifest.xml:19:5-67
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bade2320caa7db1ce544342e813ccc91\jetified-parse-1.21.0\AndroidManifest.xml:19:5-67
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bade2320caa7db1ce544342e813ccc91\jetified-parse-1.21.0\AndroidManifest.xml:19:5-67
 	android:name
 		ADDED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:6:5-79
-MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9f297cac95bedf27fa46a167097ea009\jetified-parse-1.21.0\AndroidManifest.xml:20:5-79
-MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9f297cac95bedf27fa46a167097ea009\jetified-parse-1.21.0\AndroidManifest.xml:20:5-79
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bade2320caa7db1ce544342e813ccc91\jetified-parse-1.21.0\AndroidManifest.xml:20:5-79
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bade2320caa7db1ce544342e813ccc91\jetified-parse-1.21.0\AndroidManifest.xml:20:5-79
 	android:name
 		ADDED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:6:22-76
 application
 ADDED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:8:5-37:19
-MERGED from [com.github.Shashank02051997:FancyToast-Android:0.1.6] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\79a2a965bcf52b3912f9894388473ff3\jetified-FancyToast-Android-0.1.6\AndroidManifest.xml:11:5-14:38
-MERGED from [com.github.Shashank02051997:FancyToast-Android:0.1.6] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\79a2a965bcf52b3912f9894388473ff3\jetified-FancyToast-Android-0.1.6\AndroidManifest.xml:11:5-14:38
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\2030a678c00725541910e41d8dcb8118\material-1.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\2030a678c00725541910e41d8dcb8118\material-1.0.0\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\f160f24f6ebb938cc6fc729e1f9801c5\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\f160f24f6ebb938cc6fc729e1f9801c5\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9f297cac95bedf27fa46a167097ea009\jetified-parse-1.21.0\AndroidManifest.xml:22:5-20
-MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9f297cac95bedf27fa46a167097ea009\jetified-parse-1.21.0\AndroidManifest.xml:22:5-20
-MERGED from [androidx.core:core:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1828c85ed9aa36f74b3e881693990ce5\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1828c85ed9aa36f74b3e881693990ce5\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\fd7913541d978b06e26eb3675abbf607\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\fd7913541d978b06e26eb3675abbf607\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.Shashank02051997:FancyToast-Android:0.1.6] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bda30a0668c9a8a21a9fc385b72e759a\jetified-FancyToast-Android-0.1.6\AndroidManifest.xml:11:5-14:38
+MERGED from [com.github.Shashank02051997:FancyToast-Android:0.1.6] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bda30a0668c9a8a21a9fc385b72e759a\jetified-FancyToast-Android-0.1.6\AndroidManifest.xml:11:5-14:38
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\4b0efdb652dc852784e5cd041b170fff\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\4b0efdb652dc852784e5cd041b170fff\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1a39af07be07f37158592ca59158a49a\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1a39af07be07f37158592ca59158a49a\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bade2320caa7db1ce544342e813ccc91\jetified-parse-1.21.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bade2320caa7db1ce544342e813ccc91\jetified-parse-1.21.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\77be7d3270c29f3380dfe0027fd17a86\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\77be7d3270c29f3380dfe0027fd17a86\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6c6d77765c3da4c6a37fd76c3b076c7c\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6c6d77765c3da4c6a37fd76c3b076c7c\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1828c85ed9aa36f74b3e881693990ce5\core-1.1.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\77be7d3270c29f3380dfe0027fd17a86\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml:14:9-35
 	android:label
@@ -153,82 +153,82 @@ uses-sdk
 INJECTED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml
-MERGED from [com.github.Shashank02051997:FancyToast-Android:0.1.6] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\79a2a965bcf52b3912f9894388473ff3\jetified-FancyToast-Android-0.1.6\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.Shashank02051997:FancyToast-Android:0.1.6] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\79a2a965bcf52b3912f9894388473ff3\jetified-FancyToast-Android-0.1.6\AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\2030a678c00725541910e41d8dcb8118\material-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\2030a678c00725541910e41d8dcb8118\material-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\698dd1386f5242336a3d9f997ee12bee\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\698dd1386f5242336a3d9f997ee12bee\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\f160f24f6ebb938cc6fc729e1f9801c5\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\f160f24f6ebb938cc6fc729e1f9801c5\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\f9b5848ed119f8e4df49874a5e8b5fac\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\f9b5848ed119f8e4df49874a5e8b5fac\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9f297cac95bedf27fa46a167097ea009\jetified-parse-1.21.0\AndroidManifest.xml:15:5-17:41
-MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9f297cac95bedf27fa46a167097ea009\jetified-parse-1.21.0\AndroidManifest.xml:15:5-17:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\7096b87c8fb1293bc3c407c4d2c4c191\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\7096b87c8fb1293bc3c407c4d2c4c191\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\5f30642a019cd89df11174820bc2b955\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\5f30642a019cd89df11174820bc2b955\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\fc1424bfadac3b012135331751985bb4\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\fc1424bfadac3b012135331751985bb4\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9c236f0fd253bfe27a246bc01f061a6b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9c236f0fd253bfe27a246bc01f061a6b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\b499ba0e220e2125a292e41f0220f301\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\b499ba0e220e2125a292e41f0220f301\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\4001dc44a459ad3bddd815a387f94a79\media-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\4001dc44a459ad3bddd815a387f94a79\media-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\fdb12b5a1bd286958cecab75c922db3b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\fdb12b5a1bd286958cecab75c922db3b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\57cdcb7c28eaf2edd8ad174163cd7428\transition-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\57cdcb7c28eaf2edd8ad174163cd7428\transition-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6e045e035b92b585686e63068c2ea31d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6e045e035b92b585686e63068c2ea31d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\70dbb70033e228da59571e1320800dc9\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\70dbb70033e228da59571e1320800dc9\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\82a202330e424db08ea51c1958f88863\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\82a202330e424db08ea51c1958f88863\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bdfddf1e6a8782e9fd66cfc706439f21\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bdfddf1e6a8782e9fd66cfc706439f21\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\28c1d4875608959e36c5e67670828032\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\28c1d4875608959e36c5e67670828032\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\2f922098f3e41014d0cffda70ba84606\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\2f922098f3e41014d0cffda70ba84606\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\dc9a923d05c761b8478bfb61d79201cd\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\dc9a923d05c761b8478bfb61d79201cd\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\65eb3df3f33b2523266727750641e3a0\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\65eb3df3f33b2523266727750641e3a0\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\ab7c2afb56e42dd0bc15f98ac94b24ba\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\ab7c2afb56e42dd0bc15f98ac94b24ba\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6519fc74590f23c4c1acdcc5e6820677\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6519fc74590f23c4c1acdcc5e6820677\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1828c85ed9aa36f74b3e881693990ce5\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1828c85ed9aa36f74b3e881693990ce5\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\7dddf4b28fc6134ab1330b3efbb0881c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\7dddf4b28fc6134ab1330b3efbb0881c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\b95ab00ebe630ee54f34ed99e435a5f1\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\b95ab00ebe630ee54f34ed99e435a5f1\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\fd7913541d978b06e26eb3675abbf607\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\fd7913541d978b06e26eb3675abbf607\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\5d0130c220f1ac49ebe89a9f86ca13df\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\5d0130c220f1ac49ebe89a9f86ca13df\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\e9725f7a0aa17adaf0bbe929a0f874ef\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\e9725f7a0aa17adaf0bbe929a0f874ef\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\e56a44befec2cc6024d13702ef22a481\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\e56a44befec2cc6024d13702ef22a481\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\7d5551c04455bc92a0b9b6d5d0c3f320\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\7d5551c04455bc92a0b9b6d5d0c3f320\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\c40d39aaa1b7141d28f574abf75254a7\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\c40d39aaa1b7141d28f574abf75254a7\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\8eb818a6f72b515d9af2c0407e82537a\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\8eb818a6f72b515d9af2c0407e82537a\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1c3bfc4ce792b64e5f0911f9e59e5847\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1c3bfc4ce792b64e5f0911f9e59e5847\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\5180934eb08793071d6b8c4da56bf453\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\5180934eb08793071d6b8c4da56bf453\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\b66dee9610269a2c7602d688aae0760b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\b66dee9610269a2c7602d688aae0760b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\e5cdabd8d11255e53eef1a93f4cc1c54\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\e5cdabd8d11255e53eef1a93f4cc1c54\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.Shashank02051997:FancyToast-Android:0.1.6] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bda30a0668c9a8a21a9fc385b72e759a\jetified-FancyToast-Android-0.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Shashank02051997:FancyToast-Android:0.1.6] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bda30a0668c9a8a21a9fc385b72e759a\jetified-FancyToast-Android-0.1.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\4b0efdb652dc852784e5cd041b170fff\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\4b0efdb652dc852784e5cd041b170fff\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\637e87538cdf6aea5141591760a2054a\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\637e87538cdf6aea5141591760a2054a\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1a39af07be07f37158592ca59158a49a\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1a39af07be07f37158592ca59158a49a\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\7e83efc0ec889c810551b0247d881db5\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\7e83efc0ec889c810551b0247d881db5\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bade2320caa7db1ce544342e813ccc91\jetified-parse-1.21.0\AndroidManifest.xml:15:5-17:41
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.21.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\bade2320caa7db1ce544342e813ccc91\jetified-parse-1.21.0\AndroidManifest.xml:15:5-17:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1188dea4964e3679c4558ac5cf5ba796\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1188dea4964e3679c4558ac5cf5ba796\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\ac20911dd2423b1dc5ee7bc0e6c2bd57\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\ac20911dd2423b1dc5ee7bc0e6c2bd57\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\efe2535d853b1bf6880f27609f69efb2\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\efe2535d853b1bf6880f27609f69efb2\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\2be89e6b9e8f5d311c1edca857de9328\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\2be89e6b9e8f5d311c1edca857de9328\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\de0babc5bb30b697c366eb4d7935df44\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\de0babc5bb30b697c366eb4d7935df44\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9a6c5ee4ecfb36bd09e31dfb03abfa67\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9a6c5ee4ecfb36bd09e31dfb03abfa67\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1ce78b80763cbcca7d5d468a837bb114\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\1ce78b80763cbcca7d5d468a837bb114\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6b024cc412d3043c8a7078477c2dade7\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6b024cc412d3043c8a7078477c2dade7\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\ae431e076eaffdd1374e5c8b1e2084eb\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\ae431e076eaffdd1374e5c8b1e2084eb\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\b1707985d2816a1d3ed00bcaf1e66f87\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\b1707985d2816a1d3ed00bcaf1e66f87\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\0d01548bf87c860359127667f100868b\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\0d01548bf87c860359127667f100868b\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\a44791c56c8f726ea9a7e74e147f33a0\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\a44791c56c8f726ea9a7e74e147f33a0\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\57197a6c1dcbd2fe057ef393e9a37d99\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\57197a6c1dcbd2fe057ef393e9a37d99\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\8310045d7ba699c94a9605d811bbe8da\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\8310045d7ba699c94a9605d811bbe8da\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\f49e8688b0c5f54413b9f179e9dcdeb2\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\f49e8688b0c5f54413b9f179e9dcdeb2\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\475f6435ad08b4af8950ff6ea6ed208e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\475f6435ad08b4af8950ff6ea6ed208e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\34040e5cd9b24ce81add4fae2dda0a0c\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\34040e5cd9b24ce81add4fae2dda0a0c\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\3fd00c56e758ee1d5063f2e17bf4dced\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\3fd00c56e758ee1d5063f2e17bf4dced\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\77be7d3270c29f3380dfe0027fd17a86\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\77be7d3270c29f3380dfe0027fd17a86\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\377147e80a2ffcbb694e3dc0f97a0219\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\377147e80a2ffcbb694e3dc0f97a0219\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6c7eca1098b7ab47ebecc34c4674969c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6c7eca1098b7ab47ebecc34c4674969c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6c6d77765c3da4c6a37fd76c3b076c7c\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\6c6d77765c3da4c6a37fd76c3b076c7c\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\82ba042efb93b971bbc0f4d6d91910dd\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\82ba042efb93b971bbc0f4d6d91910dd\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\3bbe64659009810363dd4ee91128201a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\3bbe64659009810363dd4ee91128201a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\3e79c2cabfbfad4d9e5f695415b3c89a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\3e79c2cabfbfad4d9e5f695415b3c89a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\77e981ea285894fa697d7ca15bbb9160\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\77e981ea285894fa697d7ca15bbb9160\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\e06de74feb44b41d954eda5375437c46\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\e06de74feb44b41d954eda5375437c46\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\25e6af53716dcadfa2e5605134542e9d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\25e6af53716dcadfa2e5605134542e9d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\fcad7ef066e7c479f19873dd46dfd567\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\fcad7ef066e7c479f19873dd46dfd567\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\a84e9cb8f9bfc2e1f1eb77c470c02095\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\a84e9cb8f9bfc2e1f1eb77c470c02095\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\e40a977e3502dbae819668b38cdd861b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\e40a977e3502dbae819668b38cdd861b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9fe915dcc5e6a697a468c62b90466d98\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SHOAIB\.gradle\caches\transforms-2\files-2.1\9fe915dcc5e6a697a468c62b90466d98\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\SHOAIB\AndroidStudioProjects\Instagramclone\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
